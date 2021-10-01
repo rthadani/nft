@@ -1,0 +1,12 @@
+{
+    "attributes" : [ {
+      "trait_type" : "Variant",
+      "value" : "Bodhi"
+    }, {
+      "trait_type" : "Distrbution", 
+      "value" : "Ubuntu"
+    } ],
+    "description" : "The best ubuntu",
+    "image" : "https://gateway.pinata.cloud/ipfs/QmQJmcrFAJM2ZKPzEzRBGumDpet8SSXTmf1vt7GaAEthit",
+    "name" : "Enligtenment"
+}
